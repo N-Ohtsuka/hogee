@@ -1,0 +1,11 @@
+<asx version = "3.0">
+	<Title>Anime Radio Fukkatsu</Title>
+	<Author>http://ar-fukkatsu.com</Author>
+	<Copyright>2016 </Copyright>
+
+	<entry>
+		<ref href="http://centauri.shoutca.st:8557/stream" />
+		<Title>Anime Radio Fukkatsu</Title>
+		<Author>http://ar-fukkatsu.com</Author>
+	</entry>
+</asx>
